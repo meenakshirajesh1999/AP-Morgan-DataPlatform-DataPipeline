@@ -5,7 +5,8 @@ In this project, an End-To-End Data Engineering Project on performing data quali
 
 Technologies used in this project inlude Python, PySpark, Azure Data Factory, Azure Databricks and Azure Keyvault
 
-
+## Architecture 
+<img src="Project2.jpg">
 
 ## Technology Used
 - Programming Language - Python
